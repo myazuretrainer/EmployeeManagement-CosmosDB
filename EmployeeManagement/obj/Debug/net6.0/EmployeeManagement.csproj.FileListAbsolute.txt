@@ -1,0 +1,114 @@
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\msvcp140.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\vcruntime140.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\vcruntime140_1.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Azure.Core.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Client.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Core.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Memory.Data.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CopyComplete
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+E:\VS Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\msvcp140.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CopyComplete
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+C:\Users\myazu\Desktop\Intellipaat\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
